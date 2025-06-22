@@ -72,12 +72,12 @@
 }
 
 .social-icons a:hover {
-    color: #007bff; /* Optional: Blue color on hover */
+    color: #007bff; 
 }
 
 @media (max-width: 768px) {
     .social-icons {
-        gap: 10px; /* Adjust gap for smaller screens */
+        gap: 10px; 
         padding: 8px 0; /* Adjust padding for smaller screens */
     }
 
